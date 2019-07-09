@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/yarisma.dir/xor.cpp.o  -o yarisma 

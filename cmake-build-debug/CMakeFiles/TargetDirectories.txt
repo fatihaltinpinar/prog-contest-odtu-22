@@ -1,0 +1,3 @@
+/home/faati/Desktop/yarisma/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/faati/Desktop/yarisma/cmake-build-debug/CMakeFiles/yarisma.dir
+/home/faati/Desktop/yarisma/cmake-build-debug/CMakeFiles/edit_cache.dir
